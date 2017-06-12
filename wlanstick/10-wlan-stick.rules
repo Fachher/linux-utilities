@@ -1,0 +1,2 @@
+# USB device 0x:0x (rtl8188eu)
+SUBSYSTEM=="usb", ATTR{idVendor}=="0df6", ATTR{idProduct}=="0076", RUN+="/sbin/modprobe 8188eu"
