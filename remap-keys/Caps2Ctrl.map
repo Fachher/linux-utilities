@@ -1,0 +1,5 @@
+keymaps 0-127
+keycode 58 = Escape
+keycode 41 = U+003c
+shift keycode 41 = U+003e
+alt keycode 41 = U+007c
